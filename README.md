@@ -4,3 +4,6 @@
 
 ### Project 1: A Monte Carlo Model of Neutron Penetration:
 **History:** This project was completed in 2022, as part of the "Computational Physics" module taken during my second year of Physics at the University of Manchester. 
+
+### Project 2: Analysing Capnogram Time Series Data for Binary Classification:
+**History:** Started in March 2025, and currently ongoing! Jupyter notebook detailing the data cleaning, feature engineering, and ML model (gradient boost) building, relating to the classificaton of a set of capnograms (CO2 time series, as measured over a single exhale), by a binary characteristic. Sections 1,2 and 3 are exploratory, with their final findings being neatly bundled and used in section 4, the ML model application step. 
